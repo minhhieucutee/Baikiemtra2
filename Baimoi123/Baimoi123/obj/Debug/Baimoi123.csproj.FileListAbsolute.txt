@@ -1,0 +1,7 @@
+C:\Users\hieu1\source\repos\Baimoi123\Baimoi123\bin\Debug\Baimoi123.exe.config
+C:\Users\hieu1\source\repos\Baimoi123\Baimoi123\bin\Debug\Baimoi123.exe
+C:\Users\hieu1\source\repos\Baimoi123\Baimoi123\bin\Debug\Baimoi123.pdb
+C:\Users\hieu1\source\repos\Baimoi123\Baimoi123\obj\Debug\Baimoi123.csproj.AssemblyReference.cache
+C:\Users\hieu1\source\repos\Baimoi123\Baimoi123\obj\Debug\Baimoi123.csproj.CoreCompileInputs.cache
+C:\Users\hieu1\source\repos\Baimoi123\Baimoi123\obj\Debug\Baimoi123.exe
+C:\Users\hieu1\source\repos\Baimoi123\Baimoi123\obj\Debug\Baimoi123.pdb
